@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\bin\Debug\net5.0\ejer1.exe
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\bin\Debug\net5.0\ejer1.deps.json
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\bin\Debug\net5.0\ejer1.runtimeconfig.json
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\bin\Debug\net5.0\ejer1.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\bin\Debug\net5.0\ejer1.dll
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\bin\Debug\net5.0\ref\ejer1.dll
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\bin\Debug\net5.0\ejer1.pdb
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.dll
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ref\ejer1.dll
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.pdb
+C:\Users\Andrea\Desktop\repaso hasta condicionales con switch\ejer1\obj\Debug\net5.0\ejer1.genruntimeconfig.cache
